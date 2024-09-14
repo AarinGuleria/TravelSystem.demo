@@ -5,14 +5,14 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import Homepage from "./pages/Homepage";
-import PackageDetailPageTourInformation from "./pages/PackageDetailPageTourInformation";
-import AboutUsPage from "./pages/AboutUsPage";
-import PackagesArchivePage from "./pages/PackagesArchivePage";
-import PackageDetailPageTourGallery from "./pages/PackageDetailPageTourGallery";
-import PackageDetailPageTourPlan from "./pages/PackageDetailPageTourPlan";
-import PackageDetailPageTourLocation from "./pages/PackageDetailPageTourLocation";
-import CreateYourOwnPackage from "./pages/CreateYourOwnPackage";
+import Homepage from "./components/pages/Homepage";
+import PackageDetailPageTourInformation from "./components/pages/PackageDetailPageTourInformation";
+import AboutUsPage from "./components/pages/AboutUsPage";
+import PackagesArchivePage from "./components/pages/PackagesArchivePage";
+import PackageDetailPageTourGallery from "./components/pages/PackageDetailPageTourGallery";
+import PackageDetailPageTourPlan from "./components/pages/PackageDetailPageTourPlan";
+import PackageDetailPageTourLocation from "./components/pages/PackageDetailPageTourLocation";
+import CreateYourOwnPackage from "./components/pages/CreateYourOwnPackage";
 
 
 function App() {
