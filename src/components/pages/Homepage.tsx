@@ -29,12 +29,8 @@ const FooterChild = styled.div`
   position: absolute;
   top: 278px;
   left: 0px;
-<<<<<<< HEAD
-  background-color: #e5e5ea;
-=======
   background-color: var(--color-gainsboro-100);
 
->>>>>>> Incoming
   width: 1200px;
   height: 2px;
 `;
@@ -57,12 +53,8 @@ const AboutUsParent = styled.div`
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-<<<<<<< HEAD
-  gap: 18px;
-=======
   gap: var(--gap-lg);
 
->>>>>>> Incoming
   font-size: var(--font-size-base);
 `;
 const NavListItem = styled.div`
@@ -80,12 +72,8 @@ const MaldivesParent = styled.div`
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-<<<<<<< HEAD
-  gap: 12px;
-=======
   gap: var(--gap-xs);
 
->>>>>>> Incoming
   font-size: var(--font-size-base);
 `;
 const NavListItem1 = styled.div`
@@ -106,12 +94,8 @@ const GroupChild = styled.div`
   position: absolute;
   top: 0px;
   left: 0px;
-<<<<<<< HEAD
-  background-color: #eeeeff;
-=======
   background-color: var(--color-lavender);
 
->>>>>>> Incoming
   width: 389px;
   height: 52px;
 `;
@@ -244,12 +228,8 @@ const TravelHelpsCompaniesManageParent = styled.div`
   width: 213px;
   height: 107px;
   font-size: var(--font-size-base);
-<<<<<<< HEAD
-  color: #757095;
-=======
   color: var(--color-slategray-100);
 
->>>>>>> Incoming
 `;
 const NavWrapParent = styled.div`
   position: absolute;
@@ -299,12 +279,8 @@ const Footer1 = styled.div`
   width: 1544px;
   height: 484px;
   text-align: center;
-<<<<<<< HEAD
-  color: var(--color-gray-200);
-=======
   color: var(--color-gray-300);
 
->>>>>>> Incoming
   font-family: var(--font-manrope);
 `;
 const Promotion = styled.b`
@@ -337,12 +313,8 @@ const TestimonialChild = styled.div`
   position: absolute;
   top: 60px;
   left: 0px;
-<<<<<<< HEAD
-  border-radius: 17px;
-=======
   border-radius: var(--br-mid);
 
->>>>>>> Incoming
   background-color: var(--white);
   width: 538px;
   height: 277px;
@@ -403,12 +375,8 @@ const GroupInner = styled.div`
   left: 0px;
   box-shadow: 0px 20px 35px rgba(115, 115, 115, 0.15);
   border-radius: 50%;
-<<<<<<< HEAD
-  background-color: #737373;
-=======
   background-color: var(--color-dimgray-100);
 
->>>>>>> Incoming
   width: 62px;
   height: 62px;
 `;
@@ -479,12 +447,8 @@ const Testimonials = styled.div`
   width: 600px;
   height: 337px;
   font-size: var(--font-size-smi-2);
-<<<<<<< HEAD
-  color: var(--black);
-=======
   color: var(--black1);
 
->>>>>>> Incoming
 `;
 const PaginationChild = styled.div`
   position: absolute;
@@ -549,12 +513,8 @@ const ExploreNatureItem = styled.div`
   position: absolute;
   top: 0px;
   left: 0px;
-<<<<<<< HEAD
-  background-color: var(--color-gray-300);
-=======
   background-color: var(--color-gray-700);
 
->>>>>>> Incoming
   width: 960px;
   height: 399px;
 `;
@@ -678,12 +638,8 @@ const EtLaboreHarum = styled.div`
   left: 0px;
   font-size: var(--font-size-base);
   line-height: 26px;
-<<<<<<< HEAD
-  color: var(--black);
-=======
   color: var(--black1);
 
->>>>>>> Incoming
   display: inline-block;
   width: 574px;
   height: 103px;
@@ -729,12 +685,8 @@ const Illustration = styled.div`
   width: 552px;
   height: 711px;
   font-size: var(--font-size-32xl-2);
-<<<<<<< HEAD
-  color: var(--black);
-=======
   color: var(--black1);
 
->>>>>>> Incoming
 `;
 const Destination1Child = styled.img`
   position: absolute;
@@ -948,12 +900,8 @@ const TripToHawaii = styled.div`
   letter-spacing: 0.02em;
   line-height: 124.5%;
   font-weight: 500;
-<<<<<<< HEAD
-  color: var(--black1);
-=======
   color: var(--black);
 
->>>>>>> Incoming
 `;
 const LineDiv = styled.div`
   position: absolute;
@@ -999,12 +947,8 @@ const TripToRome = styled.div`
 `;
 const Span = styled.span``;
 const Completed = styled.span`
-<<<<<<< HEAD
-  color: var(--black1);
-=======
   color: var(--black);
 
->>>>>>> Incoming
 `;
 const Completed1 = styled.div`
   position: absolute;
@@ -1075,12 +1019,8 @@ const RectangleParent5 = styled.div`
   width: 263px;
   height: 129px;
   font-size: var(--font-size-sm);
-<<<<<<< HEAD
-  color: var(--black1);
-=======
   color: var(--black);
 
->>>>>>> Incoming
 `;
 const Heart = styled.img`
   position: absolute;
@@ -1136,12 +1076,8 @@ const GroupChild8 = styled.div`
   position: absolute;
   top: 0px;
   left: 0px;
-<<<<<<< HEAD
-  border-radius: 13px;
-=======
   border-radius: var(--br-smi);
 
->>>>>>> Incoming
   background-color: var(--color);
   width: 47px;
   height: 48px;
@@ -1363,12 +1299,8 @@ const BackgroundElement = styled.div`
   width: 153px;
   height: 166px;
   font-size: var(--font-size-3xl);
-<<<<<<< HEAD
-  color: var(--color-gainsboro-100);
-=======
   color: var(--color-gainsboro-200);
 
->>>>>>> Incoming
   font-family: var(--font-roboto);
 `;
 const IllustrationInner = styled.img`
@@ -1447,12 +1379,8 @@ const EtLaboreHarum1 = styled.div`
   left: 0px;
   font-size: var(--font-size-base);
   line-height: 26px;
-<<<<<<< HEAD
-  color: var(--black);
-=======
   color: var(--black1);
 
->>>>>>> Incoming
   display: inline-block;
   width: 583px;
   height: 103px;
@@ -1473,12 +1401,8 @@ const RomanticTropicalLand = styled.div`
   width: 1404px;
   height: 745.5px;
   font-size: var(--font-size-32xl-2);
-<<<<<<< HEAD
-  color: var(--black);
-=======
   color: var(--black1);
 
->>>>>>> Incoming
 `;
 const Category = styled.div`
   position: absolute;
@@ -1564,12 +1488,8 @@ const BestFlightOptionsSelectedItem = styled.div`
     0px 20px 13px rgba(0, 0, 0, 0.01),
     0px 8.1px 6.52px rgba(0, 0, 0, 0.01),
     0px 1.9px 3.15px rgba(0, 0, 0, 0);
-<<<<<<< HEAD
-  border-radius: 36px;
-=======
   border-radius: var(--br-17xl);
 
->>>>>>> Incoming
   background-color: var(--white);
   width: 267px;
   height: 314px;
@@ -1783,12 +1703,8 @@ const SearcgingToolsChild = styled.div`
   left: 0px;
   backdrop-filter: blur(35.52px);
   border-radius: 5.22px;
-<<<<<<< HEAD
-  background-color: rgba(243, 243, 243, 0.6);
-=======
   background-color: var(--color-whitesmoke-400);
 
->>>>>>> Incoming
   width: 844px;
   height: 102px;
 `;
@@ -1869,12 +1785,8 @@ const Context3 = styled.div`
   left: 0px;
   width: 844px;
   height: 375px;
-<<<<<<< HEAD
-  font-size: 58.5px;
-=======
   font-size: var(--font-size-39xl-5);
 
->>>>>>> Incoming
 `;
 const Context4 = styled.div`
   position: absolute;
@@ -1964,12 +1876,8 @@ const ActiveIndicator = styled.div`
   position: absolute;
   top: 44px;
   left: 8px;
-<<<<<<< HEAD
-  border-radius: 34px;
-=======
   border-radius: var(--br-15xl);
 
->>>>>>> Incoming
   background-color: var(--color-salmon);
   width: 30px;
   height: 3px;
@@ -2094,12 +2002,8 @@ const Partners = styled.div`
   position: absolute;
   top: 976px;
   left: 0px;
-<<<<<<< HEAD
-  background-color: #f7f7f7;
-=======
   background-color: var(--color-whitesmoke-200);
 
->>>>>>> Incoming
   width: 1920px;
   height: 200px;
   overflow: hidden;
@@ -2108,12 +2012,8 @@ const HomepageChild = styled.div`
   position: absolute;
   top: 7091px;
   left: 0px;
-<<<<<<< HEAD
-  background-color: #f8f8f8;
-=======
   background-color: var(--color-whitesmoke-100);
 
->>>>>>> Incoming
   width: 212px;
   height: 240px;
 `;
@@ -2166,12 +2066,8 @@ const Switzerland = styled.b`
   left: 2px;
   font-size: var(--font-size-10xl);
   text-transform: capitalize;
-<<<<<<< HEAD
-  color: var(--color-darkslategray);
-=======
   color: var(--color-darkslategray-200);
 
->>>>>>> Incoming
 `;
 const Div24 = styled.div`
   position: absolute;
@@ -2223,12 +2119,8 @@ const NamExercitationemCommodi = styled.div`
   font-size: var(--font-size-smi-2);
   letter-spacing: 0.05em;
   line-height: 24.45px;
-<<<<<<< HEAD
-  color: var(--black);
-=======
   color: var(--black1);
 
->>>>>>> Incoming
   text-align: left;
   display: inline-block;
   width: 393px;
@@ -2297,12 +2189,8 @@ const Amazon = styled.b`
   left: 4px;
   font-size: var(--font-size-10xl);
   text-transform: capitalize;
-<<<<<<< HEAD
-  color: var(--color-darkslategray);
-=======
   color: var(--color-darkslategray-200);
 
->>>>>>> Incoming
 `;
 const Div26 = styled.div`
   position: absolute;
